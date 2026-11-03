@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.build/
+dist/
+installer/count.iss
+installer/init.iss
+installer/payload.iss
+installer/output/
+renderer/authoring-result.json
+renderer/chunk.json
+renderer/UnrealProject/Content/
+renderer/UnrealProject/Saved/
+renderer/UnrealProject/Intermediate/
+renderer/UnrealProject/DerivedDataCache/

@@ -1,0 +1,19 @@
+{
+  "engine": "5.7.4-51494982",
+  "chunkId": 3713,
+  "status": "Solo native contours visible; automatic refresh and pickup cleanup user-confirmed; red weapons and Stormrock raw material pending native checks",
+  "files": {
+    "ItemContours.pak": {
+      "bytes": 339,
+      "sha256": "12c7c03c6740eefa4fef4c08c8a5a28bfed3cf892c057a1fcdb6695a2095ba13"
+    },
+    "ItemContours.utoc": {
+      "bytes": 621,
+      "sha256": "2ed781d295a2013e1d3e14ec85339cfd3c97a1768994fa585cb3bb90db074ceb"
+    },
+    "ItemContours.ucas": {
+      "bytes": 28672,
+      "sha256": "29d09ed90922c3a939178615b7d1612851333bb9b1a6bcbec28a1315f9acba45"
+    }
+  }
+}
